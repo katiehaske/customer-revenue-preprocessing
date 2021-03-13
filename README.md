@@ -1,6 +1,6 @@
-# Google Analytics Customer Revenue Preprocessing
+# Google Analytics Customer Revenue Preprocessing 📈
 
-## About the project 🌧️
+## About the project 🧼
 
 This project aims take Google Analytics Customer Revenue data and clean it up—remove missing values or impute 
 alternate values). Visualisations are then run on the data to explore the information.
